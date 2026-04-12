@@ -1,4 +1,4 @@
-package org.tnsif.cap.c2tc.steramapi;
+package org.tnsif.cap.c2tc.streamapi;
 
 import java.util.List;
 import java.util.Optional;
