@@ -16,3 +16,4 @@ public class ScannerCharDemo {
         scan.close();
     }
 }
+

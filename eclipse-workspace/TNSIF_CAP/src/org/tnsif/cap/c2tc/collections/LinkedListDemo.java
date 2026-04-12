@@ -27,6 +27,7 @@ public class LinkedListDemo {
 		System.out.println(fruit);
 		
 		}
+	
 		
 			fruits.clear();
 			System.out.println("list cleared no of fruits " + fruits.size());

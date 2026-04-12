@@ -22,6 +22,7 @@ class Person7
 		System.out.println("Name " + name + "age   "+ age);
 		
 	}
+	
 
 }
 //sort by name

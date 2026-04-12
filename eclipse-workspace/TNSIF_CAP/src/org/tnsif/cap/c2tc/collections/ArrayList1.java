@@ -16,6 +16,7 @@ public class ArrayList1 {
 		
 		fruits.set(1, "cherry"); //modify element
 		
+		
 		fruits.remove(2);//remove element
 		
 		if(fruits.contains("Apple")); // check if an elem exists

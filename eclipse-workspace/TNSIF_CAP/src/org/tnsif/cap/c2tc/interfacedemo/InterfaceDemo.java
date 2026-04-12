@@ -35,5 +35,6 @@ public class InterfaceDemo {
 		smart.turnOff();
 		smart.getStatus(); 
 	}
+	
 
 }

@@ -13,6 +13,7 @@ public class UserInput2DArray {
 		int multidemensionarray[][]=new int[rows][col];
 		
 		for(int i=0;i<rows;i++)
+			
 		{
 			for(int j=0;j<col;j++)
 			{

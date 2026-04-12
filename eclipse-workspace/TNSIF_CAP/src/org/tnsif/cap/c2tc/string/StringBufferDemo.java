@@ -19,6 +19,7 @@ public class StringBufferDemo {
 		thread1.start();
 		thread2.start();
 		
+		
 		try
 		{thread1.join();//wait here until the thread1 is done
 		thread2.join();//wait here until the thread2 is done

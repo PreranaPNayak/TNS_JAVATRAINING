@@ -19,6 +19,7 @@ class Person5{
 }
 
 
+
 public class BeforeComparable {
 
 	public static void main(String[] args) {

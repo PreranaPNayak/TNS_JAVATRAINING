@@ -32,6 +32,7 @@ public class AllTerminalOps {
 				.collect(Collectors.toList());
 		
 		
+		
 		//min -find the min number
 		
 		Optional<Integer> min1=numbers.stream().min(Integer::compareTo);

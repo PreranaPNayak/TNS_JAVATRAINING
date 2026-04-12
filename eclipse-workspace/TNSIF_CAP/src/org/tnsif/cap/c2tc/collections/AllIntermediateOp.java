@@ -35,6 +35,7 @@ public class AllIntermediateOp {
 	
 	// 4 sorted() :sort the numbers in ascending order
 	
+	
 	List<Integer> sortedNumbers =numbers.stream()
 			.sorted()
 			.collect(Collectors.toList());

@@ -18,6 +18,7 @@ public class AllSetMethods {
 		//display the set
 		System.out.println("Intial set" +set);
 		
+		
 		//removing an element
 		set.remove("Banana");
 		System.out.println("Set after removing of 'banana' "+ set);

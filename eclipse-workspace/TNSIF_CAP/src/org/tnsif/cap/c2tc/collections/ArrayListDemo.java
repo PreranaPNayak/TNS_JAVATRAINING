@@ -18,6 +18,7 @@ public class ArrayListDemo {
 		
 		fruits.remove(2);
 		
+		
 		if(fruits.contains("Cherry"));
 		{
 			System.out.println("Cherry is in the list");

@@ -22,6 +22,7 @@ class Person6 implements Comparable<Person6>
 
 
 	
+	
 	//sort by name
 	
 	public int compareTo(Person6 other) {

@@ -14,6 +14,7 @@ public class ArrayList2 {
 		System.out.println(al);
 			
 
+		
 	}
 
 }

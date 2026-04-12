@@ -30,3 +30,4 @@ public class AfterEncapsulation {
         System.out.println(getName());
     }
 }
+

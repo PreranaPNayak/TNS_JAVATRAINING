@@ -39,6 +39,7 @@ public class Vector1 {
 	    	System.out.println(num);
 	    }
 	    
+	    
 	    //size
 	    
 	    System.out.println("Size of vector data " + numbers.size());

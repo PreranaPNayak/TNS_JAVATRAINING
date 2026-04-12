@@ -40,6 +40,7 @@ class Car6 implements Vehicle6
 		System.out.println("car" + model +" is stoping ");
 	}
 	
+	
 }
 
 class Bike6 implements Vehicle6

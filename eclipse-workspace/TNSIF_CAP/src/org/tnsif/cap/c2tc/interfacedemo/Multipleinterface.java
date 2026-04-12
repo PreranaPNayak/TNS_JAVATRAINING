@@ -1,5 +1,6 @@
 package org.tnsif.cap.c2tc.interfacedemo;
 
+
 interface Printer
 {
 	void print(String message);

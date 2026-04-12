@@ -19,6 +19,7 @@ public class AllIntermediateOps {
 	
 	
 	
+	
 	//2 filter() : keep only even numbers
 	List<Integer> evens=numbers.stream()
 			.filter(n->n%2==0)

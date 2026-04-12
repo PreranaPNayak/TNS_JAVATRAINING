@@ -25,6 +25,7 @@ public class HashmapDemo {
         map.put(2, 250);  // Updating value for key 2
         System.out.println("Map after updating value for key '2': " + map);
 
+        
         // 5. Removing an entry by key
         map.remove(3);  // Removing the entry with key 3
         System.out.println("Map after removing key '3': " + map);

@@ -16,6 +16,7 @@ public class StackDemo1 {
 		//displaying the stack
 		
 		System.out.println("Stack after push operation" + stack);
+	
 		
 		///looking at the top element without removing it
 		
@@ -26,6 +27,7 @@ public class StackDemo1 {
 		System.out.println("Stack after pop" + stack);
 		
 		stack.clear();
+		
 		
 		//check if stack is empty
 		

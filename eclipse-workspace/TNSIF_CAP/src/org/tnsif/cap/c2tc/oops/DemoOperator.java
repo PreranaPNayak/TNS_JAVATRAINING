@@ -17,3 +17,4 @@ public class DemoOperator {
         System.out.println(objName instanceof Animal);
     }
 }
+

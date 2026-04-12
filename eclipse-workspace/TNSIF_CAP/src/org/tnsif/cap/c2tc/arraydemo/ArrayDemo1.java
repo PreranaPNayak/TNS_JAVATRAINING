@@ -11,6 +11,7 @@ public class ArrayDemo1 {
 //		nums[2]=9;
 //		System.out.println(nums[2]);
 //	}
+		
 	
 	//Dynamic value
 //	int nums[]=new int[4];

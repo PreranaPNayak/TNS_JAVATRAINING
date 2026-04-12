@@ -8,6 +8,7 @@ public class JaggedArray {
 		
 		int[][] studentInGrade=new int[3][];
 		
+		
 		//step 2:initialize sub array
 		
 		studentInGrade[0] =new int[2]; //grade 1 has 2 students

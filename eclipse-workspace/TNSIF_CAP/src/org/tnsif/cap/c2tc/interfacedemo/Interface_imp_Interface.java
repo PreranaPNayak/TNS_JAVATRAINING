@@ -33,6 +33,7 @@ class Tesla implements Electrivehicle
 		
 	}
 	
+	
 }
 public class Interface_imp_Interface {
 

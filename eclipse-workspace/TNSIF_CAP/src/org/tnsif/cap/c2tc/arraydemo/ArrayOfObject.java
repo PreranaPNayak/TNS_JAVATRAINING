@@ -11,6 +11,7 @@ class Book
 		this.author = author;
 		this.price = price;
 	}
+	
 	void display()
 	{
 		System.out.println("Title :" +title +"Author :" + author + "Price :"+ price );
