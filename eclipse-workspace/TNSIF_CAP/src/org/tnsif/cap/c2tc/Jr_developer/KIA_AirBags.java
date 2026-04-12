@@ -1,15 +1,18 @@
-package org.tnsif.cap.c2tc.Jr_developer;
+package org.tnsif.cap.c2tc.jr_developer;
 
 public class KIA_AirBags {
+	
 
-	public void display_Air() {
-		System.out.println("All KIA have Airbag welcome");
+   public void disp_AirBags()
+	{
+		System.out.println("All Kia have airbags");
 	}
+   
+   public static void main(String[] args) {
+		
+		KIA_AirBags obj=new KIA_AirBags();
+		obj.disp_AirBags();
 
-	public static void main(String[] args) {
-
-		KIA_AirBags ob2 = new KIA_AirBags();
-		ob2.display_Air();
-	}
+}
 
 }

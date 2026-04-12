@@ -1,15 +1,15 @@
-package org.tnsif.cap.c2tc.Jr_developer;
+package org.tnsif.cap.c2tc.jr_developer;
 
 public class KIA_SpeedLimit {
-
-	void display_speed() {
-		System.out.println("All KIA have speed limit");
+	
+	public void disp_Speeds() {
+		System.out.println("All Kia have speedlimit");
 	}
+	
+public static void main(String[] args) {
+		
+		KIA_AirBags obj=new KIA_AirBags();
+		obj.disp_AirBags();
 
-	public static void main(String[] args) {
-
-		KIA_AirBags ob2 = new KIA_AirBags();
-		ob2.display_Air();
-	}
 }
-
+}
