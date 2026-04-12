@@ -1,27 +1,16 @@
 package org.tnsif.cap.c2tc.constructordemo;
 
-class Myclass1
+class Myclass
 {
 	String color;
 	int cost;
 	String Brand;
-
-
-//default constructor
-
-Myclass1()
-{
-	color="white";
-	cost=200;
-	Brand="xyz";
 }
-}
-public class DefaultConstructorDemo {
+public class BeforeConstructor {
 
 	public static void main(String[] args) {
-		Myclass1 obj=new Myclass1();
+		Myclass obj=new Myclass();
 		System.out.println(obj.color + " " + obj.cost + "  " + obj.Brand);
-
 
 	}
 
